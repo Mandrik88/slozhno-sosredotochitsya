@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Downloads/karty-podskazhut-main"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "slozhno-sosredotochitsya"
+	}
+}
