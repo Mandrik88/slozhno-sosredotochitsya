@@ -19,7 +19,7 @@
   --decorate-color: #FF0070;
   --decorate-text: #FF0070;
   --rec-display: block;
-  --font-family: 'IBM Plex Mono';
+  --font-family: 'IBM Plex Mono', sans-serif;
   --font-size: 18px;
   --font-weight: 400;
  }
